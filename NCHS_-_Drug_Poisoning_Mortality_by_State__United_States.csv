@@ -1,0 +1,51 @@
+Sort,Year,Sex,Age,Race and Hispanic Origin,State,Deaths,Population,Crude Death Rate,Standard Error for Crude Rate,Low Confidence Limit for Crude Rate,Upper Confidence Limit for Crude Rate,Age-adjusted Rate,Standard Error Age-adjusted Rate,Lower Confidence Limit for Age-adjusted rate,Upper Confidence Limit for Age-adjusted Rate,State Crude Rate in Range,US Crude Rate,US Age-adjusted Rate
+0,2013,Both Sexes,All Ages,All Races-All Origins,Alabama,598,4833722,12.4,0.5,11.4,13.4,12.7,0.5,11.7,13.8,12.3–15.2,13.9,13.8
+1,2013,Both Sexes,All Ages,All Races-All Origins,Alaska,105,735132,14.3,1.4,11.6,17,14.4,1.4,11.5,17.2,12.3–15.2,13.9,13.8
+2,2013,Both Sexes,All Ages,All Races-All Origins,Arizona,1222,6626624,18.4,0.5,17.4,19.5,18.7,0.5,17.7,19.8,15.2–41.5,13.9,13.8
+3,2013,Both Sexes,All Ages,All Races-All Origins,Arkansas,319,2959373,10.8,0.6,9.6,12,11.1,0.6,9.8,12.3,9.9–12.3,13.9,13.8
+4,2013,Both Sexes,All Ages,All Races-All Origins,California,4452,38332521,11.6,0.2,11.3,12,11.1,0.2,10.8,11.5,9.9–12.3,13.9,13.8
+5,2013,Both Sexes,All Ages,All Races-All Origins,Colorado,846,5268367,16.1,0.6,15,17.1,15.5,0.5,14.5,16.6,15.2–41.5,13.9,13.8
+6,2013,Both Sexes,All Ages,All Races-All Origins,Connecticut,582,3596080,16.2,0.7,14.9,17.5,16,0.7,14.7,17.3,15.2–41.5,13.9,13.8
+7,2013,Both Sexes,All Ages,All Races-All Origins,Delaware,166,925749,17.9,1.4,15.2,20.7,18.7,1.5,15.8,21.6,15.2–41.5,13.9,13.8
+8,2013,Both Sexes,All Ages,All Races-All Origins,Florida,2474,19552860,12.7,0.3,12.2,13.2,12.6,0.3,12.1,13.1,12.3–15.2,13.9,13.8
+9,2013,Both Sexes,All Ages,All Races-All Origins,Georgia,1098,9992167,11,0.3,10.3,11.6,10.8,0.3,10.2,11.5,9.9–12.3,13.9,13.8
+10,2013,Both Sexes,All Ages,All Races-All Origins,Hawaii,158,1404054,11.3,0.9,9.5,13,11,0.9,9.2,12.8,9.9–12.3,13.9,13.8
+11,2013,Both Sexes,All Ages,All Races-All Origins,Idaho,207,1612136,12.8,0.9,11.1,14.6,13.4,0.9,11.5,15.2,12.3–15.2,13.9,13.8
+12,2013,Both Sexes,All Ages,All Races-All Origins,Illinois,1579,12882135,12.3,0.3,11.7,12.9,12.1,0.3,11.5,12.7,9.9–12.3,13.9,13.8
+13,2013,Both Sexes,All Ages,All Races-All Origins,Indiana,1064,6570902,16.2,0.5,15.2,17.2,16.6,0.5,15.6,17.6,15.2–41.5,13.9,13.8
+14,2013,Both Sexes,All Ages,All Races-All Origins,Iowa,275,3090416,8.9,0.5,7.8,10,9.3,0.6,8.2,10.4,7–9.8,13.9,13.8
+15,2013,Both Sexes,All Ages,All Races-All Origins,Kansas,331,2893957,11.4,0.6,10.2,12.7,12,0.7,10.6,13.3,9.9–12.3,13.9,13.8
+16,2013,Both Sexes,All Ages,All Races-All Origins,Kentucky,1019,4395295,23.2,0.7,21.8,24.6,23.7,0.8,22.2,25.2,15.2–41.5,13.9,13.8
+17,2013,Both Sexes,All Ages,All Races-All Origins,Louisiana,809,4625470,17.5,0.6,16.3,18.7,17.8,0.6,16.5,19,15.2–41.5,13.9,13.8
+18,2013,Both Sexes,All Ages,All Races-All Origins,Maine,174,1328302,13.1,1,11.2,15,13.2,1,11.2,15.3,12.3–15.2,13.9,13.8
+19,2013,Both Sexes,All Ages,All Races-All Origins,Maryland,892,5928814,15,0.5,14.1,16,14.6,0.5,13.6,15.6,12.3–15.2,13.9,13.8
+20,2013,Both Sexes,All Ages,All Races-All Origins,Massachusetts,1081,6692824,16.2,0.5,15.2,17.1,16,0.5,15,17,15.2–41.5,13.9,13.8
+21,2013,Both Sexes,All Ages,All Races-All Origins,Michigan,1553,9895622,15.7,0.4,14.9,16.5,15.9,0.4,15.1,16.7,15.2–41.5,13.9,13.8
+22,2013,Both Sexes,All Ages,All Races-All Origins,Minnesota,523,5420380,9.6,0.4,8.8,10.5,9.6,0.4,8.8,10.4,7–9.8,13.9,13.8
+23,2013,Both Sexes,All Ages,All Races-All Origins,Mississippi,316,2991207,10.6,0.6,9.4,11.7,10.8,0.6,9.6,12,9.9–12.3,13.9,13.8
+24,2013,Both Sexes,All Ages,All Races-All Origins,Missouri,1025,6044171,17,0.5,15.9,18,17.5,0.6,16.4,18.6,15.2–41.5,13.9,13.8
+25,2013,Both Sexes,All Ages,All Races-All Origins,Montana,137,1015165,13.5,1.2,11.2,15.8,14.5,1.3,12,16.9,12.3–15.2,13.9,13.8
+26,2013,Both Sexes,All Ages,All Races-All Origins,Nebraska,117,1868516,6.3,0.6,5.1,7.4,6.5,0.6,5.3,7.7,1.8–7,13.9,13.8
+27,2013,Both Sexes,All Ages,All Races-All Origins,Nevada,614,2790136,22,0.9,20.3,23.7,21.1,0.9,19.4,22.8,15.2–41.5,13.9,13.8
+28,2013,Both Sexes,All Ages,All Races-All Origins,New Hampshire,203,1323459,15.3,1.1,13.2,17.4,15.1,1.1,12.9,17.2,12.3–15.2,13.9,13.8
+29,2013,Both Sexes,All Ages,All Races-All Origins,New Jersey,1294,8899339,14.5,0.4,13.7,15.3,14.5,0.4,13.7,15.3,12.3–15.2,13.9,13.8
+30,2013,Both Sexes,All Ages,All Races-All Origins,New Mexico,458,2085287,22,1,20,24,22.6,1.1,20.5,24.8,15.2–41.5,13.9,13.8
+31,2013,Both Sexes,All Ages,All Races-All Origins,New York,2309,19651127,11.8,0.2,11.3,12.2,11.3,0.2,10.8,11.8,9.9–12.3,13.9,13.8
+32,2013,Both Sexes,All Ages,All Races-All Origins,North Carolina,1259,9848060,12.8,0.4,12.1,13.5,12.9,0.4,12.2,13.6,12.3–15.2,13.9,13.8
+33,2013,Both Sexes,All Ages,All Races-All Origins,North Dakota,20,723393,2.8,0.6,1.7,4.3,2.8,0.6,1.7,4.4,1.8–7,13.9,13.8
+34,2013,Both Sexes,All Ages,All Races-All Origins,Ohio,2347,11570808,20.3,0.4,19.5,21.1,20.8,0.4,19.9,21.7,15.2–41.5,13.9,13.8
+35,2013,Both Sexes,All Ages,All Races-All Origins,Oklahoma,790,3850568,20.5,0.7,19.1,21.9,20.6,0.7,19.2,22.1,15.2–41.5,13.9,13.8
+36,2013,Both Sexes,All Ages,All Races-All Origins,Oregon,455,3930065,11.6,0.5,10.5,12.6,11.3,0.5,10.3,12.4,9.9–12.3,13.9,13.8
+37,2013,Both Sexes,All Ages,All Races-All Origins,Pennsylvania,2426,12773801,19,0.4,18.2,19.7,19.4,0.4,18.6,20.2,15.2–41.5,13.9,13.8
+38,2013,Both Sexes,All Ages,All Races-All Origins,Rhode Island,241,1051511,22.9,1.5,20,25.8,22.4,1.5,19.5,25.3,15.2–41.5,13.9,13.8
+39,2013,Both Sexes,All Ages,All Races-All Origins,South Carolina,620,4774839,13,0.5,12,14,13,0.5,11.9,14,12.3–15.2,13.9,13.8
+40,2013,Both Sexes,All Ages,All Races-All Origins,South Dakota,55,844877,6.5,0.9,4.9,8.5,6.9,1,5.2,9.1,1.8–7,13.9,13.8
+41,2013,Both Sexes,All Ages,All Races-All Origins,Tennessee,1187,6495978,18.3,0.5,17.2,19.3,18.1,0.5,17.1,19.2,15.2–41.5,13.9,13.8
+42,2013,Both Sexes,All Ages,All Races-All Origins,Texas,2446,26448193,9.2,0.2,8.9,9.6,9.3,0.2,8.9,9.6,7–9.8,13.9,13.8
+43,2013,Both Sexes,All Ages,All Races-All Origins,Utah,594,2900872,20.5,0.8,18.8,22.1,22.1,0.9,20.3,23.9,15.2–41.5,13.9,13.8
+44,2013,Both Sexes,All Ages,All Races-All Origins,Vermont,93,626630,14.8,1.5,12,18.2,15.1,1.6,12,18.6,12.3–15.2,13.9,13.8
+45,2013,Both Sexes,All Ages,All Races-All Origins,Virginia,854,8260405,10.3,0.4,9.6,11,10.2,0.4,9.5,10.9,9.9–12.3,13.9,13.8
+46,2013,Both Sexes,All Ages,All Races-All Origins,Washington,969,6971406,13.9,0.4,13,14.8,13.4,0.4,12.6,14.3,12.3–15.2,13.9,13.8
+47,2013,Both Sexes,All Ages,All Races-All Origins,West Virginia,570,1854304,30.7,1.3,28.2,33.3,32.2,1.4,29.5,34.9,15.2–41.5,13.9,13.8
+48,2013,Both Sexes,All Ages,All Races-All Origins,Wisconsin,856,5742713,14.9,0.5,13.9,15.9,15,0.5,14,16.1,12.3–15.2,13.9,13.8
+49,2013,Both Sexes,All Ages,All Races-All Origins,Wyoming,98,582658,16.8,1.7,13.7,20.5,17.2,1.8,13.9,21.1,15.2–41.5,13.9,13.8
